@@ -15,4 +15,4 @@ Soon to be available at **[knottysoft.com](knottysoft.com)**
 
  License: MIT
 ----------------
-View the [license here](license.md)
+View the [license here](LICENSE)
