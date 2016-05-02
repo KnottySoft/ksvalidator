@@ -10,7 +10,7 @@ Supported browsers
 
  Documentation
 -----------------
-Soon to be available at **[knottysoft.com](knottysoft.com)**
+Soon to be available at **[knottysoft.com](http://www.knottysoft.com)**
 
 
  License: MIT
