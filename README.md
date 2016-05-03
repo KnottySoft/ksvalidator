@@ -18,7 +18,7 @@ Under development!
 
 General Notice
 -----------------
-The form validation library core is largely completed but will more than likely undergo some changes until a stable version is released. The current *attributes* will not be changing however, some may be added but the names are pretty set-in which means the library can be added without issue to your forms. The *functions* however may more than likely be renamed down the line. 
+The form validation library core is largely completed but will more than likely undergo some changes until a stable version is released. The current *attributes* will not be changing however, some may be added but the names are pretty set-in which means the library can be added without issue to your forms. The *functions* however may more than likely be renamed down the line.  
 
 License: MIT
 ----------------
